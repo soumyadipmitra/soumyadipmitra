@@ -4,11 +4,11 @@
 <p>
 - 🌱 I primarily work with Python and Java and have microservice development and machine learning experience
 <p>
-- ⚡ I am interested in Blockchain and published my first Blockchain and Cryptocurrency implementation using Python named (Mitcoin)[https://github.com/soumyadipmitra/mitcoin] few weeks back
+- ⚡ I am interested in Blockchain and published my first Blockchain and Cryptocurrency implementation using Python named [Mitcoin](https://github.com/soumyadipmitra/mitcoin) few weeks back
 <p>
 - 📫 How to reach me: 
 
-- The quickest way to reach me is through my (LinkedIn profile)[https://www.linkedin.com/in/soumyadipmitra/] or (Twitter handle)[https://twitter.com/soumyadipmitra] given in my profile on the left
+- The quickest way to reach me is through my [LinkedIn profile](https://www.linkedin.com/in/soumyadipmitra/) or [Twitter handle](https://twitter.com/soumyadipmitra) given in my profile on the left
 
 <!--
 **soumyadipmitra/soumyadipmitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
