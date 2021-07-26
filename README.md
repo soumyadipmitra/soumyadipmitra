@@ -1,10 +1,14 @@
-### Hi there 👋 My name is Soumyadip Mitra
+### Hi there 👋 
+#### My name is Soumyadip Mitra
 <p>
+
 - 🔭 I’m currently working as a Senior Developer for LPL Financial
 <p>
+
 - 🌱 I primarily work with Python and Java and have microservice development and machine learning experience
 <p>
-- ⚡ I am interested in Blockchain and published my first Blockchain and Cryptocurrency implementation using Python named [Mitcoin](https://github.com/soumyadipmitra/mitcoin) few weeks back
+
+- ⚡ I am interested in Blockchain and published my first Blockchain and Cryptocurrency implementation using Python named [Mitcoin](https://github.com/soumyadipmitra/mitcoin) a few weeks back
 <p>
 - 📫 How to reach me: 
 
