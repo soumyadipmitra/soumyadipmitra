@@ -1,10 +1,14 @@
-### Hi there 👋
+### Hi there 👋 My name is Soumyadip Mitra
 <p>
-- 🔭 I’m currently working as a Senior Developer for LPL Financial with interestes in Machine Learning, Python and Java
+- 🔭 I’m currently working as a Senior Developer for LPL Financial
 <p>
-- I am a newbie in Open Source world and navigating through interesting projects to make my first contribution soon
+- 🌱 I primarily work with Python and Java and have microservice development and machine learning experience
 <p>
-- 📫 How to reach me: You can reach me at my LinkedIn profile or Twitter handle given in my profile on the left
+- ⚡ I am interested in Blockchain and published my first Blockchain and Cryptocurrency implementation using Python named (Mitcoin)[https://github.com/soumyadipmitra/mitcoin] few weeks back
+<p>
+- 📫 How to reach me: 
+
+- The quickest way to reach me is through my (LinkedIn profile)[https://www.linkedin.com/in/soumyadipmitra/] or (Twitter handle)[https://twitter.com/soumyadipmitra] given in my profile on the left
 
 <!--
 **soumyadipmitra/soumyadipmitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
