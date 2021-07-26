@@ -1,4 +1,10 @@
 ### Hi there 👋
+<p>
+- 🔭 I’m currently working as a Senior Developer for LPL Financial with interestes in Machine Learning, Python and Java
+<p>
+- I am a newbie in Open Source world and navigating through interesting projects to make my first contribution soon
+<p>
+- 📫 How to reach me: You can reach me at my LinkedIn profile or Twitter handle given in my profile on the left
 
 <!--
 **soumyadipmitra/soumyadipmitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
