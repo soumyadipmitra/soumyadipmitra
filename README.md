@@ -2,10 +2,10 @@
 #### My name is Soumyadip Mitra
 <p>
 
-- 🔭 I’m currently working as a Senior Developer for LPL Financial
+- 🔭 I’m currently working as a Machine Learning Engineer for Compunnel
 <p>
 
-- 🌱 I primarily work with Python and Java and have microservice development and machine learning experience
+- 🌱 I primarily work with Airflow, MLOps, Snowflake, Databricks, PySpark, AWS, Tableau and have microservice development and machine learning experience with Python and Java
 <p>
 
 - ⚡ I am interested in Blockchain and published my first Blockchain and Cryptocurrency implementation using Python named [Mitcoin](https://github.com/soumyadipmitra/mitcoin) a few weeks back
